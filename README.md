@@ -1,6 +1,8 @@
 # ListLength
 
 **TODO: Add description**
+## read notion doc
+https://www.notion.so/Desafio-01-Utilizando-recurs-o-ebe28f949fc84d67be3758dfde4358e8
 
 ## Installation
 
